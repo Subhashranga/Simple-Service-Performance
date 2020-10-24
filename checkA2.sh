@@ -2,8 +2,8 @@
 
 ##VARIABLES; must be filled correctly
 
-internetNIC1=em1
-internetNIC2=br0
+internetNIC1=enp0s3
+internetNIC2=enp0s3
 
 
 ##
